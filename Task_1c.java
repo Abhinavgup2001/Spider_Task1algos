@@ -127,6 +127,8 @@ public class Task_1c {
 			 for(int i=0;i<6;i++) {
 System.out.println(ans[i]);
 
+
 	}
+			 System.out.flush();
 }
 }
